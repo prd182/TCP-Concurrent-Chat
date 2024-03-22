@@ -1,4 +1,4 @@
-# TCP-Concurrent-Chat
+# TCP Concurrent Chat
 A simple concurrent chat console application.
 
 ***Features:***
